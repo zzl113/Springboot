@@ -23,10 +23,10 @@ spring:
     datasource:
         driverClassName: oracle.jdbc.OracleDriver
         dataSourceClassName: oracle.jdbc.pool.OracleDataSource
-        url: jdbc:oracle:thin:@172.16.0.235:1521:orcl
+        url: jdbc:oracle:thin:@172.16.0.235:1521:zzlpdb
         name:
-        username: erp
-        password: erp
+        username: qiqi
+        password: 619
         hikari:
             data-source-properties:
                 cachePrepStmts: true
